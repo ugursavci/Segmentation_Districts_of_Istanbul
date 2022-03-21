@@ -1,14 +1,17 @@
 
 
-
 # Segmentation Districts of Istanbul
-
-You can see the dashboard app >>>>  [here](https://share.streamlit.io/ugursavci/segmentation_districts_of_istanbul/main/app.py)
-
 
 ## Business Case
 
 One of the most known fast-food company is willing to open the first restaurant in Istanbul. They want to get optimal district in Istanbul to open their first branch.They want to get a data centric solution.
+
+You can see the dashboard app >>>>  [here](https://share.streamlit.io/ugursavci/segmentation_districts_of_istanbul/main/app.py)
+
+<img src='https://github.com/ugursavci/Segmentation_Districts_of_Istanbul/blob/main/dashboard.png'>
+
+
+
 
 ### Data Collection using Beautiful Soup
 
